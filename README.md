@@ -22,7 +22,7 @@ A wrapper for Auth0 SPA SDK to use Auth0 in Flutter Web.
   ```HTML
   <head>
     <!-- other elements in head -->
-    <script src="https://cdn.auth0.com/js/auth0-spa-js/1.13/auth0-spa-js.production.js"></script>
+    <script src="https://cdn.auth0.com/js/auth0-spa-js/1.20/auth0-spa-js.production.js"></script>
     <!-- other elements in head -->
   </head>
   ```
